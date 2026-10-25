@@ -1,0 +1,22 @@
+{
+  "01_key_art_battle": {
+    "size": "1536x1024",
+    "prompt": "Key art for a co-op multiplayer video game called 'The Levy'. Stylized-realistic 3D game render, soft hand-painted textures, slightly exaggerated chunky proportions, expressive faces, warm cinematic lighting. NOT low poly, NOT photoreal. Comedic but gruesome tone. A muddy Hundred Years' War battlefield in 1346: a ragtag group of four medieval peasant levies in padded gambesons and mismatched dented kettle helmets stumble forward with a pitchfork, a rusty billhook, a wooden club and a crooked homemade shield. Behind them a huge clash of hundreds of soldiers, banners, a sky full of longbow arrows. A knight is mid-ragdoll, flying off his horse. One peasant has an arrow stuck in his helmet and looks mildly annoyed. Muted earthy palette of mud browns, wool greens and greys, with pops of heraldic red and blue."
+  },
+  "02_peasant_lineup": {
+    "size": "1536x1024",
+    "prompt": "Character lineup sheet for a stylized-realistic co-op video game about medieval peasant levies (14th century). Four player characters standing side by side on a plain warm grey background, full body, front view. Soft hand-painted textures, chunky slightly exaggerated proportions, expressive goofy faces, readable silhouettes, game-ready 3D character render style, not low poly. 1) a tall lanky peasant with a huge nose, straw hat, bare feet, holding a scythe; 2) a short round woman with enormous forearms, leather apron, carrying a wood axe; 3) a scrawny old man with one wooden peg leg and a crutch, wearing a too-big dented helmet; 4) a stocky young man in a patched gambeson with a bandaged head and a crooked homemade shield painted with a crude chicken. Muted earthy wool and linen colors."
+  },
+  "03_village_camp": {
+    "size": "1536x1024",
+    "prompt": "Environment concept art for a stylized-realistic co-op medieval survival game. A small, humble peasant camp in a clearing in rural 14th-century France: a few patched canvas tents, a lean-to, a campfire with a cooking pot, a woodpile with an axe stuck in a stump, a tiny vegetable patch, drying herbs and laundry. A herald on horseback with a trumpet and a heraldic tabard has just arrived, ringing a bell; peasants look up in dread. Early autumn, golden late-afternoon light, light mist, soft hand-painted textures, slightly exaggerated chunky shapes, warm and cozy but poor. Third-person game camera angle. Not low poly, not photoreal."
+  },
+  "04_field_surgery": {
+    "size": "1536x1024",
+    "prompt": "Comedic-gruesome scene from a stylized-realistic co-op medieval video game. Inside a patched canvas tent lit by a lantern, three peasants perform a crude field amputation on a fourth: the patient lies on a wooden table gripping a tankard of ale, eyes wide, biting on a leather strap; one friend holds him down, one squints while holding a carpenter's saw, another reads upside down from a herbal book. Bandages, jars of leeches, dried herbs, a spare wooden leg leaning in the corner. Cartoonish but grim, darkly funny like Monty Python. Soft hand-painted textures, exaggerated chunky proportions, expressive faces, warm lantern light. No graphic gore, blood implied."
+  },
+  "05_homemade_gear": {
+    "size": "1536x1024",
+    "prompt": "Prop design sheet for a stylized-realistic medieval co-op video game: absurd homemade weapons, armor and prosthetics crafted by peasants, laid out on a neutral grey background with clear silhouettes. Includes: a three-meter-long crooked sword, a shovel with nails hammered through it, a pot used as a helmet, a door used as a shield, a wooden prosthetic arm with a mace bolted on, a carved peg leg with a little boot, a homemade wooden wheelchair cart with a lance mount and a push handle, a pitchfork with an extra blade lashed on with rope. Soft hand-painted textures, chunky readable shapes, game asset render style, not low poly."
+  }
+}

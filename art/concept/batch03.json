@@ -1,0 +1,18 @@
+{
+  "01_battle_clash": {
+    "size": "1536x1024",
+    "prompt": "In-game screenshot of a goofy physics-based medieval battle video game. ART STYLE: simple chunky stylized 3D characters with blocky simplified bodies, big rounded heads, small dot eyes, minimal facial features, wobbly ragdoll physics poses; clean flat-ish shading with soft gradients, readable silhouettes, like a toy-like battle simulator game. Characters have NATURAL human skin tones and NATURAL earthy medieval clothing colors (undyed linen, brown wool, faded green, rust, grey steel), NOT team-colored red/blue bodies. ENVIRONMENT: nicer than a typical simple game: lush rolling green hills, soft stylized grass, painterly foliage, stylized trees, soft volumetric atmosphere, gentle blue sky. SCENE: a Hundred Years' War battlefield, a ragtag crowd of peasant levies with pitchforks, billhooks and clubs charging uphill into a line of armored knights; one peasant flies through the air ragdolling, a knight topples off a horse, arrows rain from the sky, a few small heraldic banners. Third-person camera behind a peasant player. Comedic, chaotic."
+  },
+  "02_peasant_lineup": {
+    "size": "1536x1024",
+    "prompt": "Character lineup for a goofy physics-based medieval co-op video game. ART STYLE: simple chunky stylized 3D characters with blocky simplified bodies, big rounded heads, small dot eyes, minimal facial features, toy-like proportions; clean flat-ish shading with soft gradients; natural human skin tones and natural undyed medieval clothing colors (linen, brown wool, faded green, rust). Plain soft grey background, full body, front view, six characters side by side: a very tall skinny peasant in a straw hat with a scythe; a short wide peasant woman with huge arms and a wood axe; an old man with a wooden peg leg, crutch and a cooking pot as a helmet; a stocky peasant with a bandaged head and a wooden shield painted with a crude chicken; a longbowman in a hood; a knight in plate armor with a great helm for comparison. Customization should feel obvious: varied body proportions, hats, beards."
+  },
+  "03_village_camp": {
+    "size": "1536x1024",
+    "prompt": "In-game screenshot of a goofy physics-based medieval co-op survival game. ART STYLE: simple chunky stylized 3D with blocky simplified characters, big rounded heads, small dot eyes, natural skin tones and earthy clothing; clean soft shading; ENVIRONMENT is lush and pretty: stylized painterly trees with autumn leaves, soft grass, gentle fog, warm late afternoon light. SCENE: a small peasant camp in a forest clearing: patched canvas tents, campfire with cooking pot, woodpile with an axe in a stump, a little cabbage patch, laundry line. A herald on a chunky horse blowing a trumpet has just arrived; four peasant players drop what they are doing. Third-person camera behind one player, small minimal HUD."
+  },
+  "04_field_surgery": {
+    "size": "1536x1024",
+    "prompt": "In-game screenshot of a goofy physics-based medieval co-op game. ART STYLE: simple chunky stylized 3D characters with blocky simplified bodies, big rounded heads, small dot eyes, natural human skin tones, earthy clothing, clean soft shading, toy-like. SCENE: inside a patched canvas tent lit by a lantern, a comedic field amputation: one peasant lies on a wooden table holding a tankard of ale, a friend holds him down, another peasant holds a big carpenter's saw, a fourth reads a book upside down. A wooden peg leg leans in the corner, jars of leeches, herbs hanging. Comedic, darkly funny, no gore."
+  }
+}

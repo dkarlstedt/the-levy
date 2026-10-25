@@ -1,0 +1,10 @@
+{
+  "01_battle_simple": {
+    "size": "1536x1024",
+    "prompt": "In-game screenshot of a goofy physics ragdoll medieval battle game. ART STYLE IS VERY SIMPLE: characters are made of a few smooth chunky shapes, mostly solid-colored materials with almost no texture detail, soft clean shading, big simple heads with tiny dot eyes and no other facial features except an occasional simple beard shape, stubby blocky hands, slightly floppy limbs. Natural human skin tones and plain muted medieval clothing colors (oatmeal linen, brown, olive, rust, grey steel). Props are simple chunky shapes too. Environment is a little richer but still clean and stylized: smooth rolling green hills, clumps of simple stylized grass, rounded stylized trees, soft fog, bright soft sky. NOT realistic, NOT detailed textures, NOT claymation. SCENE: dozens of peasant levies with pitchforks and clubs charging into armored knights; bodies ragdolling through the air, a knight tumbling off a horse, arrows in the sky, a couple of banners. Third-person camera behind a peasant."
+  },
+  "02_lineup_simple": {
+    "size": "1536x1024",
+    "prompt": "Character lineup for a goofy physics ragdoll medieval co-op game. ART STYLE IS VERY SIMPLE: each character is made of a few smooth chunky shapes with mostly solid-colored materials and almost no texture detail, soft clean shading, big simple heads with tiny dot eyes and no other facial features except simple hair or beard shapes, stubby blocky hands. Natural human skin tones and plain muted medieval clothing colors. NOT realistic, NOT claymation, NOT detailed. Plain light grey background, six characters full body front view: very tall skinny peasant with a straw hat and scythe; short wide woman with huge arms and an axe; old man with a peg leg, crutch and a pot helmet; stocky peasant with a bandaged head and a round shield with a simple chicken painted on it; hooded longbowman; knight in simple chunky plate armor with a great helm."
+  }
+}

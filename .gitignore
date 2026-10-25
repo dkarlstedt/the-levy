@@ -1,0 +1,22 @@
+.env
+.env.*
+
+# Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+.vs/
+*.sln
+*.slnx
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+Backup/
+UpgradeLog.htm
